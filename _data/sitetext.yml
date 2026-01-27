@@ -100,6 +100,7 @@ en: &DEFAULT_EN
     people:
       - name: "Kay Garland"
         role: "Lead Designer"
+        details: "Test #1"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
