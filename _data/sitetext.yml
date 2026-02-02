@@ -12,8 +12,8 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to our Website
-    text: It's Quite NNice To Meet You
-    button: Tell Me More
+    text: It's Quite Broken For Now
+    button: We are working on it
     buttonlink: "#services"
 
   services:
